@@ -54,3 +54,8 @@ a:hover {
     border-bottom: 1px solid #d0d0d0;
     transition: all 0.3s ease !important;
 }
+
+::selection {
+    color: #919191;
+    background: #4e4e4e;
+}
