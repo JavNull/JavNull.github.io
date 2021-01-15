@@ -34,10 +34,10 @@ input {
     max-width: 600px;
     height: 50px;
     width: 75%;
-    background-color: #262626;
-    color: #d0d0d0;
+    background-color: #2c2c2c;
+    color: #d7d9d6;
     outline: none;
-    margin-bottom: 20px
+    margin-bottom: 20px;
 }
 
 .icons a:not(:last-of-type) {
