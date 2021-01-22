@@ -2,7 +2,7 @@ body {
     background-color: #222222;
     color: #d0d0d0;
     font-size: 20px;
-    font-family: 'Raleway', sans-serif;
+    font-family: arial,sans-serif;
 }
 
 a,
@@ -26,8 +26,8 @@ h1.timing {
 
 input {
     border-radius: 2px;
-    font-family: 'Raleway', sans-serif;
     text-align: center;
+    font-family: arial,sans-serif;
     font-size: 25px;
     border: none;
     min-width: 400px;
